@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.7</title>
+      <pubDate>Sun, 08 Nov 2026 01:15:50 +0300</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Security: repositories whose git settings would run programs open in Restricted mode (with Trust Repository); branch and tag names can&#x27;t be mistaken for git options; the GitHub token is no longer visible to hooks; Open File won&#x27;t launch apps or scripts; the update feed is signed and verified</li><li>Graph: a continuous line from each branch label to its commit; hovering a commit shows which branch it&#x27;s on; hand cursor over rows</li><li>Faster and lighter: no GitHub CLI calls at launch, about 12% less memory with long histories</li><li>The main window always comes back, including from the Dock icon</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.7/Dal-0.1.7.zip" type="application/octet-stream" sparkle:edSignature="KYrCQjQCMIsTloQnjfsRTdYgudJAzn/s0q5EDg4yoQo9K+JNoClrRsngaQgRmc9PN+yzn7+1tjTMtB2iYTVfBA==" length="4244195" />
+    </item>
+    <item>
       <title>Dal 0.1.6</title>
       <pubDate>Sun, 08 Nov 2026 00:36:49 +0300</pubDate>
       <sparkle:version>8</sparkle:version>
@@ -71,6 +80,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IElPBYt80pA4yIqBKedYbUJ1WUXs2gyMPrMc+8ZHwt2WJMjARUL/1dQ1EhXmyhpyRUGzIejF7KE4uPpQ8TSTDA==
-length: 6809
+edSignature: Hu0usG96Nkw/S0eesn7Pj1R14H2uirN5lixQl6u8OYOVAGRaRgAnOFmud231Mhz0BsbQPLANG8oTLz5VK0KIBg==
+length: 8049
 -->
