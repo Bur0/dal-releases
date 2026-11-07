@@ -6,6 +6,15 @@
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.5</title>
+      <pubDate>Sun, 08 Nov 2026 00:25:05 +0300</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Hover a branch label to see every branch and tag on that commit, untruncated. Each label still checks out, opens its menu and drags.</li><li>Better contrast on both themes: meta text, status colours, graph lanes and avatars now meet WCAG contrast. Branch labels are larger.</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.5/Dal-0.1.5.zip" type="application/octet-stream" sparkle:edSignature="e+8HIMyomWIr2xAkij2sxFXzFBvQlfU2MBo6TdwFExcYU49WaElEh/lOTcHqAH2LXfr8e9hAv4n+zBonHt0cBQ==" length="4112450" />
+    </item>
+    <item>
       <title>Dal 0.1.4</title>
       <pubDate>Sun, 08 Nov 2026 00:18:36 +0300</pubDate>
       <sparkle:version>6</sparkle:version>
