@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.8</title>
+      <pubDate>Sun, 08 Nov 2026 01:47:53 +0300</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Merge tool: Current and Incoming side by side, pick single lines, see the base, live output you can edit, ⌘↑/⌘↓ between conflicts</li><li>Right-click menu in GitKraken&#x27;s order: edit commit message, drop or move commits (with Undo), worktrees, patches, copy links, Solo, annotated tags, delete branch and remote together</li><li>Taller branch labels with clearer icons and ahead/behind counts</li><li>Faint lines between commit rows and between tabs</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.8/Dal-0.1.8.zip" type="application/octet-stream" sparkle:edSignature="DKbOLNu33Qkhuq5QmPI2WnRn7V3U/5iDjq8g2N9pZDhJHzXwYVOkTQ9okRD1Njm/gz5uNM+escKEwYAuhN6jCg==" length="4666077" />
+    </item>
+    <item>
       <title>Dal 0.1.7</title>
       <pubDate>Sun, 08 Nov 2026 01:15:50 +0300</pubDate>
       <sparkle:version>9</sparkle:version>
@@ -80,6 +89,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Hu0usG96Nkw/S0eesn7Pj1R14H2uirN5lixQl6u8OYOVAGRaRgAnOFmud231Mhz0BsbQPLANG8oTLz5VK0KIBg==
-length: 8049
+edSignature: w3/ZIwtUtYIwcKm+sSG6CnkUojRSbk37+yg1J5AU+e0JtnUKu/pIJ1QohLFmkgUDSBI3+VhH5ayNCEBDO2fxDQ==
+length: 9132
 -->
