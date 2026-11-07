@@ -6,6 +6,15 @@
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.6</title>
+      <pubDate>Sun, 08 Nov 2026 00:36:49 +0300</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>&quot;Discard All&quot; moved into a ⋯ menu, away from &quot;Stage All&quot;</li><li>The commit button says what&#x27;s missing; the summary counter appears as you type (amber past 50, red past 72)</li><li>Commit details show Checkout, Branch… and Cherry-pick, plus a ⋯ menu with every action</li><li>Branch names: spaces become dashes as you type</li><li>Clone fills in a git URL from the clipboard</li><li>Clearer pull request and quick switcher sheets</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.6/Dal-0.1.6.zip" type="application/octet-stream" sparkle:edSignature="NWIF9KWU6WMkSHJcxzDuJGJITFB5QcLGGRS3Qxaqr/8FIUbChhyK/0ppOKd7raozxXg1t8wxEfp/XLdOTVy6Dw==" length="4152760" />
+    </item>
+    <item>
       <title>Dal 0.1.5</title>
       <pubDate>Sun, 08 Nov 2026 00:25:05 +0300</pubDate>
       <sparkle:version>7</sparkle:version>
