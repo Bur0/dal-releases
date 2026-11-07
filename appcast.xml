@@ -6,6 +6,15 @@
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.1</title>
+      <pubDate>Sat, 07 Nov 2026 23:36:09 +0300</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The sidebar, tab bar and toolbar are now opaque; the sidebar no longer picks up the desktop wallpaper colour.</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.1/Dal-0.1.1.zip" type="application/octet-stream" sparkle:edSignature="BasU7Vuw/i2I8/rORwcDS0ODZfL3SfmVQ/RiPu4BeD/dmfL9MqrAXjShjBLCVCqB7QOhiRpKSoxHZeNYHok4Dg==" length="4018035" />
+    </item>
+    <item>
       <title>Dal 0.1.0</title>
       <pubDate>Sat, 07 Nov 2026 23:17:28 +0300</pubDate>
       <sparkle:version>2</sparkle:version>
