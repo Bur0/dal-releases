@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Dal</title>
     <link>https://raw.githubusercontent.com/Bur0/dal-releases/main/appcast.xml</link>
@@ -12,7 +13,7 @@
       <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>&quot;Discard All&quot; moved into a ⋯ menu, away from &quot;Stage All&quot;</li><li>The commit button says what&#x27;s missing; the summary counter appears as you type (amber past 50, red past 72)</li><li>Commit details show Checkout, Branch… and Cherry-pick, plus a ⋯ menu with every action</li><li>Branch names: spaces become dashes as you type</li><li>Clone fills in a git URL from the clipboard</li><li>Clearer pull request and quick switcher sheets</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.6/Dal-0.1.6.zip" type="application/octet-stream" sparkle:edSignature="NWIF9KWU6WMkSHJcxzDuJGJITFB5QcLGGRS3Qxaqr/8FIUbChhyK/0ppOKd7raozxXg1t8wxEfp/XLdOTVy6Dw==" length="4152760" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.6/Dal-0.1.6.zip" type="application/octet-stream" sparkle:edSignature="NWIF9KWU6WMkSHJcxzDuJGJITFB5QcLGGRS3Qxaqr/8FIUbChhyK/0ppOKd7raozxXg1t8wxEfp/XLdOTVy6Dw==" length="4152760"></enclosure>
     </item>
     <item>
       <title>Dal 0.1.5</title>
@@ -21,7 +22,7 @@
       <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Hover a branch label to see every branch and tag on that commit, untruncated. Each label still checks out, opens its menu and drags.</li><li>Better contrast on both themes: meta text, status colours, graph lanes and avatars now meet WCAG contrast. Branch labels are larger.</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.5/Dal-0.1.5.zip" type="application/octet-stream" sparkle:edSignature="e+8HIMyomWIr2xAkij2sxFXzFBvQlfU2MBo6TdwFExcYU49WaElEh/lOTcHqAH2LXfr8e9hAv4n+zBonHt0cBQ==" length="4112450" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.5/Dal-0.1.5.zip" type="application/octet-stream" sparkle:edSignature="e+8HIMyomWIr2xAkij2sxFXzFBvQlfU2MBo6TdwFExcYU49WaElEh/lOTcHqAH2LXfr8e9hAv4n+zBonHt0cBQ==" length="4112450"></enclosure>
     </item>
     <item>
       <title>Dal 0.1.4</title>
@@ -30,7 +31,7 @@
       <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Updates download in the background. When one is ready, the version badge at the top right becomes &quot;Update ready · Restart Dal&quot;; click it to install and relaunch, or it installs when you quit.</li><li>Settings → Updates: &quot;Download updates in the background&quot; toggle.</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.4/Dal-0.1.4.zip" type="application/octet-stream" sparkle:edSignature="BBuki/BzGssM/4/XFIAA2bI23fl1DLVGfbaT8mTTqntm35Qp15Ea947zYxnW5jSlRzCcPTu1pr3qLHeBFKiZDA==" length="4085013" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.4/Dal-0.1.4.zip" type="application/octet-stream" sparkle:edSignature="BBuki/BzGssM/4/XFIAA2bI23fl1DLVGfbaT8mTTqntm35Qp15Ea947zYxnW5jSlRzCcPTu1pr3qLHeBFKiZDA==" length="4085013"></enclosure>
     </item>
     <item>
       <title>Dal 0.1.3</title>
@@ -39,7 +40,7 @@
       <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>The running version is always visible: a badge at the top right (build number, Check for Updates, release notes) and on the welcome screen</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.3/Dal-0.1.3.zip" type="application/octet-stream" sparkle:edSignature="hk3rxO+8DVo5iqmZzauMJiXfzhs96WqL/mVB6GMfTEIWBeXHO5mrrpakl1boISgkf4cxVXOzDuSIqMz6/e3SDg==" length="4056312" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.3/Dal-0.1.3.zip" type="application/octet-stream" sparkle:edSignature="hk3rxO+8DVo5iqmZzauMJiXfzhs96WqL/mVB6GMfTEIWBeXHO5mrrpakl1boISgkf4cxVXOzDuSIqMz6/e3SDg==" length="4056312"></enclosure>
     </item>
     <item>
       <title>Dal 0.1.2</title>
@@ -48,7 +49,7 @@
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Quieter interface: one primary action per area, neutral toggles, file status as coloured glyphs</li><li>Sentence-case labels and one consistent type scale</li><li>Calmer conflict view and merge banner</li><li>Welcome screen with keycap shortcuts</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.2/Dal-0.1.2.zip" type="application/octet-stream" sparkle:edSignature="qXYWAuq4WeWPn/KJnPde6nPtDWYEUKCI+QyIMpoOlUsyCaRx23Otu92q/w2lQt8qGZxalRL/flCsjUQbmIw2Cg==" length="4041399" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.2/Dal-0.1.2.zip" type="application/octet-stream" sparkle:edSignature="qXYWAuq4WeWPn/KJnPde6nPtDWYEUKCI+QyIMpoOlUsyCaRx23Otu92q/w2lQt8qGZxalRL/flCsjUQbmIw2Cg==" length="4041399"></enclosure>
     </item>
     <item>
       <title>Dal 0.1.1</title>
@@ -57,7 +58,7 @@
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>The sidebar, tab bar and toolbar are now opaque; the sidebar no longer picks up the desktop wallpaper colour.</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.1/Dal-0.1.1.zip" type="application/octet-stream" sparkle:edSignature="BasU7Vuw/i2I8/rORwcDS0ODZfL3SfmVQ/RiPu4BeD/dmfL9MqrAXjShjBLCVCqB7QOhiRpKSoxHZeNYHok4Dg==" length="4018035" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.1/Dal-0.1.1.zip" type="application/octet-stream" sparkle:edSignature="BasU7Vuw/i2I8/rORwcDS0ODZfL3SfmVQ/RiPu4BeD/dmfL9MqrAXjShjBLCVCqB7QOhiRpKSoxHZeNYHok4Dg==" length="4018035"></enclosure>
     </item>
     <item>
       <title>Dal 0.1.0</title>
@@ -66,7 +67,10 @@
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>First release: commit graph, line-level staging, drag-and-drop merge/rebase, conflict resolver, undo/redo</li><li>GitHub pull requests and issues via gh</li><li>Chrome-style tab groups and Cmd-P quick switcher</li><li>Switchable Git profiles</li></ul>]]></description>
-      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.0/Dal-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="X28Nc3ERUmv+c6Ug3GwCBNqlJ3jasYyojzXtVWooQ2N0ocU4aNqKh2ArW0hx9XxmpIcpgjytwjyIofxl1hrOBw==" length="4006724" />
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.0/Dal-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="X28Nc3ERUmv+c6Ug3GwCBNqlJ3jasYyojzXtVWooQ2N0ocU4aNqKh2ArW0hx9XxmpIcpgjytwjyIofxl1hrOBw==" length="4006724"></enclosure>
     </item>
   </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: IElPBYt80pA4yIqBKedYbUJ1WUXs2gyMPrMc+8ZHwt2WJMjARUL/1dQ1EhXmyhpyRUGzIejF7KE4uPpQ8TSTDA==
+length: 6809
+-->
