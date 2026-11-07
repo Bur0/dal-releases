@@ -6,6 +6,15 @@
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.3</title>
+      <pubDate>Sun, 08 Nov 2026 00:10:59 +0300</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The running version is always visible: a badge at the top right (build number, Check for Updates, release notes) and on the welcome screen</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.3/Dal-0.1.3.zip" type="application/octet-stream" sparkle:edSignature="hk3rxO+8DVo5iqmZzauMJiXfzhs96WqL/mVB6GMfTEIWBeXHO5mrrpakl1boISgkf4cxVXOzDuSIqMz6/e3SDg==" length="4056312" />
+    </item>
+    <item>
       <title>Dal 0.1.2</title>
       <pubDate>Sat, 07 Nov 2026 23:52:00 +0300</pubDate>
       <sparkle:version>4</sparkle:version>
