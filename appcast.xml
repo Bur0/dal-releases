@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/Bur0/dal-releases/main/appcast.xml</link>
     <description>Dal release feed</description>
     <language>en</language>
+    <item>
+      <title>Dal 0.1.0</title>
+      <pubDate>Sat, 07 Nov 2026 23:17:28 +0300</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First release: commit graph, line-level staging, drag-and-drop merge/rebase, conflict resolver, undo/redo</li><li>GitHub pull requests and issues via gh</li><li>Chrome-style tab groups and Cmd-P quick switcher</li><li>Switchable Git profiles</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.0/Dal-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="X28Nc3ERUmv+c6Ug3GwCBNqlJ3jasYyojzXtVWooQ2N0ocU4aNqKh2ArW0hx9XxmpIcpgjytwjyIofxl1hrOBw==" length="4006724" />
+    </item>
   </channel>
 </rss>
