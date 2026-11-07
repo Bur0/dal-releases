@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.9</title>
+      <pubDate>Sun, 08 Nov 2026 01:56:50 +0300</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Side panels have their own shade, so the graph, the branch list and the commit panel are easy to tell apart</li><li>Tab bar: larger names, the open project stands out as a raised tab, and a group&#x27;s colour marks only the open tab</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.9/Dal-0.1.9.zip" type="application/octet-stream" sparkle:edSignature="RePUdmwSstqTfYMCV7ljyO0cp8a2+fJmcOz5Ntog/6spBL8TBzaGKljNP2O/FmCXU8IIasgkgNV+dNsJFkM/Dw==" length="4671883" />
+    </item>
+    <item>
       <title>Dal 0.1.8</title>
       <pubDate>Sun, 08 Nov 2026 01:47:53 +0300</pubDate>
       <sparkle:version>10</sparkle:version>
@@ -89,6 +98,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: w3/ZIwtUtYIwcKm+sSG6CnkUojRSbk37+yg1J5AU+e0JtnUKu/pIJ1QohLFmkgUDSBI3+VhH5ayNCEBDO2fxDQ==
-length: 9132
+edSignature: +m4gz9qxcSrAu2eYX4hHU54Xb03DIwnjP0AXpEL+NJ5xtgJ/yAVicU/wq7TJntzUtmcgSeS0SMKnQdqPF9O3Dg==
+length: 9987
 -->
