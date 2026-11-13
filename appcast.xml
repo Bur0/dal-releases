@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.11</title>
+      <pubDate>Fri, 13 Nov 2026 10:14:51 +0300</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Calmer colours: branch labels are neutral; only the branch you&#x27;re on is a solid blue label, its line in the graph is blue and the other lanes step back</li><li>The current commit&#x27;s row is tinted and the toolbar shows a branch icon, so you always see where you are</li><li>A checked-out branch inside a folder (feature/x) is pinned to the top of the sidebar</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.11/Dal-0.1.11.zip" type="application/octet-stream" sparkle:edSignature="M/ZV6W8PGRO3vNt7sRW1NAhYG2imPRwqBeLtDz9kdp0RvamlqlVePJQpXK1rj7ST7+Uv0JfSWDcwR4MuXHdeAA==" length="4738774" />
+    </item>
+    <item>
       <title>Dal 0.1.10</title>
       <pubDate>Sun, 08 Nov 2026 02:57:30 +0300</pubDate>
       <sparkle:version>12</sparkle:version>
@@ -107,6 +116,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: sYM+/u4kQ8ljrg6TMJqF0B+F9OQjg4YnRu1WmexBgLKZwjin0pzQjABNi2t+M4J62a/JrYAW1Tdns5QP+b8rCA==
-length: 10748
+edSignature: mGuSV3UDRVJ0fJF2YeC7uzh7CCqAmQzk4g1wm25f/iP08DYDWRV2oYtrwwEgD11egPvSxLPVhdDhvW+2qniwDg==
+length: 11740
 -->
