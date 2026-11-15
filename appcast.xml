@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.12</title>
+      <pubDate>Sun, 15 Nov 2026 14:18:09 +0300</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Double-click a commit row to check out the branch on it.</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.12/Dal-0.1.12.zip" type="application/octet-stream" sparkle:edSignature="BcSL6iKBaGqhGOqA68b30h0C7Xo2GgAfIDKECvziGLEh6vYZziNUxccYuMpqQ1SrE4ReVIobw9rasBjkqvWcAA==" length="4748800" />
+    </item>
+    <item>
       <title>Dal 0.1.11</title>
       <pubDate>Fri, 13 Nov 2026 10:14:51 +0300</pubDate>
       <sparkle:version>13</sparkle:version>
@@ -116,6 +125,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mGuSV3UDRVJ0fJF2YeC7uzh7CCqAmQzk4g1wm25f/iP08DYDWRV2oYtrwwEgD11egPvSxLPVhdDhvW+2qniwDg==
-length: 11740
+edSignature: UoKFa70uUSzgJk/cNHBESQh3BFd4iaDTfmaCjwVyUZW4dYPiifrxSymIuyufRWL8lSsDMQwuE7g5FdxWLXxkAw==
+length: 12422
 -->
