@@ -1,6 +1,7 @@
 # Dal releases
 
 Downloads and the auto-update feed for **Dal**, a native Git client for macOS (macOS 14 or later).
+The source code is open (MIT) at [Bur0/dal](https://github.com/Bur0/dal).
 
 ## Install
 
