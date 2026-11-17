@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.15</title>
+      <pubDate>Tue, 17 Nov 2026 12:30:15 +0300</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Switching branches while a coding agent works: Stash &amp; Switch when uncommitted changes are in the way, automatic wait when another Git process holds the lock (with Remove Lock File if it stays), damaged branches no longer freeze the graph, and many worktrees can&#x27;t stall refreshing.</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.15/Dal-0.1.15.zip" type="application/octet-stream" sparkle:edSignature="gDVATDA0tpmTaEN1eeMVgCXTIuuS8bRiAEXS96fvrvyoiOrbPZSFr0XU+EOWpiKEN6BeGmqK4rDwf8TTdZM8Aw==" length="4912569" />
+    </item>
+    <item>
       <title>Dal 0.1.14</title>
       <pubDate>Mon, 16 Nov 2026 13:54:46 +0300</pubDate>
       <sparkle:version>16</sparkle:version>
@@ -143,6 +152,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oYxE+yzQSQRHgPvTilhmHSP/k66Wyurnv6IfAEjohBTXoHvZWrNQy/90yer06IE3jexIApCh8Px2xzPmr97EBQ==
-length: 14156
+edSignature: mahixXu6u+9Sx0HrCZ+Zrcqa4THXWtV8uFSSC5p3aDDlb66LEq4ChMN4zJS5DNyfDEKKzTy6n+8qZEiF1/sLCQ==
+length: 15073
 -->
