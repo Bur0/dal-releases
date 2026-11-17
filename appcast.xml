@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.16</title>
+      <pubDate>Tue, 17 Nov 2026 17:25:05 +0300</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>GitKraken-style branch labels (flat lane colours, no outlines). The hover list of a commit&#x27;s branches now covers the rows below instead of slipping under them. Tags: own search box and Copy Tag Name on commit rows. A short, minimal launch animation.</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.16/Dal-0.1.16.zip" type="application/octet-stream" sparkle:edSignature="UXzEqayOqJE78Et8vsSBQw++wYaDM/rpW+haJRpnQcf4zmIdpKL8v3TxFOakGmeDo+XdInPfldc4CA5wa6CyCw==" length="4968938" />
+    </item>
+    <item>
       <title>Dal 0.1.15</title>
       <pubDate>Tue, 17 Nov 2026 12:30:15 +0300</pubDate>
       <sparkle:version>17</sparkle:version>
@@ -152,6 +161,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mahixXu6u+9Sx0HrCZ+Zrcqa4THXWtV8uFSSC5p3aDDlb66LEq4ChMN4zJS5DNyfDEKKzTy6n+8qZEiF1/sLCQ==
-length: 15073
+edSignature: SXG/ZWCth0fpfspLKr33xX167I4rzk8hXoX0WTYHCGFT/XUtgTea5gPOXDPXBJNEUVf6OKfMnJXyUAZMxxrDAw==
+length: 15953
 -->
