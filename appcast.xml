@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Dal release feed</description>
     <language>en</language>
     <item>
+      <title>Dal 0.1.17</title>
+      <pubDate>Wed, 18 Nov 2026 11:44:49 +0300</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Branch switcher: click the branch name (or ⇧⌘B) and type to find any branch or tag, ↑/↓ + Return to check out. Checking out a tag now marks it as where you are, and the toolbar shows its name. The graph scrolls to HEAD after a checkout. Long branch names no longer crowd the toolbar. Tags check out on double-click in the sidebar. Switching tabs no longer animates.</li></ul>]]></description>
+      <enclosure url="https://github.com/Bur0/dal-releases/releases/download/v0.1.17/Dal-0.1.17.zip" type="application/octet-stream" sparkle:edSignature="7x1md57kxJcqe9FKPIivMzAK8PBBMab41F1HkFA6LcgNBpUEgZzK807D2J+nWFQAUOcwqKjtylAzlYP6kpoUDg==" length="5109354" />
+    </item>
+    <item>
       <title>Dal 0.1.16</title>
       <pubDate>Tue, 17 Nov 2026 17:25:05 +0300</pubDate>
       <sparkle:version>18</sparkle:version>
@@ -161,6 +170,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: SXG/ZWCth0fpfspLKr33xX167I4rzk8hXoX0WTYHCGFT/XUtgTea5gPOXDPXBJNEUVf6OKfMnJXyUAZMxxrDAw==
-length: 15953
+edSignature: fI7f/Vkj1dHxLipBR+Jl5sM9rkXXg3IyTrI+JAt+2o6HzeLpVP/PSI7gxRwRP78rrHPRUtp09G1J1b+K8T1IAQ==
+length: 16952
 -->
